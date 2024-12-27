@@ -136,9 +136,3 @@ The API may return the following HTTP status codes:
 
 For support or inquiries, please contact [support@checkmailpro.com.](https://www.notion.so/CheckMailPro-Block-Fake-Temp-emails-163e6df249b5808a8c3af90a47b3b4e9?pvs=21)
 
-**How users can generate their keys on the website:**
-
-1. Visit checkmailpro.com and log in.
-2. Select a plan based on your requirements.
-3. An API key will be automatically generated under the "My APIs" tab – Access Key and Secret Key.
-4. Replace `access_key` and `secret_key` in Postman with your generated keys.
