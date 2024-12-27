@@ -4,6 +4,14 @@ A tool designed to detect temporary or disposable email addresses and block them
 
 # Secure Email Validation API Documentation
 
+**How users can generate their keys on the website:**
+
+1. Visit [checkmailpro.com](https://checkmailpro.com) and log in.
+2. Select a plan based on your requirements.
+3. An API key will be automatically generated under the "My APIs" tab – Access Key and Secret Key.
+4. Replace `access_key` and `secret_key` in Postman with your generated keys.
+
+
 ## Overview
 
 The Secure Email Validation API enables you to verify whether an email address is disposable or valid through a simple POST request.
